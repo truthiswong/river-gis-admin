@@ -37,7 +37,7 @@
     "nprogress": "^0.2.0",
     "ol": "^6.0.1",
     "photo-sphere-viewer": "^3.5.1",
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "tui-image-editor": "^3.7.0",
     "v-viewer": "^1.4.2",
     "viser-vue": "^2.4.6",
